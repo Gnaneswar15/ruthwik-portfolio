@@ -9,7 +9,10 @@ function Main() {
     <div className="container">
       <div className="about-section">
         <div className="image-wrapper">
-          <img src="https://ruthwikport.s3.us-east-1.amazonaws.com/ruth.jpeg"/>
+          <img
+  src="https://ruthwikport.s3.us-east-1.amazonaws.com/ruth.jpeg"
+  alt="Ruthwik profile picture"
+/>
         </div>
         <div className="content">
           <div className="social_icons">
